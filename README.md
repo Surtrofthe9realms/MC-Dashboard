@@ -11,6 +11,10 @@ displays the MPH, Gear, Coolant Temp, Voltage and RPM
 
 This is the Motorcycle Dashboard
 
+I would be happy to accept and suggestions from those that might be more experienced than me or might have interesting ideas as to making my code more efficient and potentially effective. People are also welcome to test out the program and respond to me about their results and issues.
+
+Thank you
+
 ## Features
 
 - **Gear Position Display** - Shows current transmission gear
