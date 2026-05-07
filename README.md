@@ -57,6 +57,18 @@ Thank you
 
 This project is open source and available under the MIT License.
 
+## Disclaimer and Legal notice
+
+This project is for educational and research purposes only. By using this software or hardware design, you acknowledge and agree to the following:
+
+Beta Software: This project is currently in a Beta stage of development. It may contain bugs, experience crashes, or display inaccurate data. It should not be relied upon as a primary safety instrument.
+
+No Liability: The author (Surtrofthe9realms) shall not be held liable for any damages to vehicles, hardware, or personal injury resulting from the use, misuse, or failure of this project. Use this at your own risk.
+
+Legal Compliance: This project is designed to read data from the vehicle's CANbus. It is not intended to bypass, modify, or "flash" emissions controls, odometers, or safety restraint systems (SRS). It is the user's responsibility to ensure that any modifications to their vehicle comply with local laws and regulations regarding road safety and equipment.
+
+Installation: Improper wiring or power regulation (via buck converter) can result in electrical fire or damage to the vehicle's ECU. Ensure all connections are fused and weather-protected for motorcycle use.
+
 ## Author
 
 Surtrofthe9realms
