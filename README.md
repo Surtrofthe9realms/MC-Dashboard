@@ -1,3 +1,5 @@
+# MC-Dashboard-DEV
+
 # ESP32 Mini S2 LCD Dashboard
 
 A real-time automotive data dashboard for ESP32 Mini S2 microcontroller that displays vehicle information on a 16x2 LCD screen for Motorcycles.
@@ -31,6 +33,17 @@ Thank you
 - **Communication**: CANbus Module
 - **Power Management**: Buck Converter
 - **Input**: Buttons for user control
+- **PCB v0.1**
+    - Multiple extra pin though to allow tweaking and testing.
+    - Zener and resistor based 3v3 voltage divider doesnt work so well for the ACC GPIO, planning to use a SMD regulator instead of Zener.
+    - SMD CANBUS protection diode instead of the bulky TVS diodes.
+
+### PCB Rendering v0.1
+![PCB Rendering](./images/esp32s2_mini_pcb_v0.1.png)
+
+### Schematics v0.1
+![Schematics v0.1](./images/esp32s2_mini_schematics_v0.1.png)
+
 
 ## Software
 
