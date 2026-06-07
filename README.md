@@ -1,4 +1,4 @@
-# MC-Dashboard-DEV
+# MC-Dashboard
 
 # ESP32 Mini S2 LCD Dashboard
 
